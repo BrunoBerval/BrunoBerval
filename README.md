@@ -42,12 +42,17 @@ Estudante de Desenvolvimento de Software na **FATEC Jacareí** — aprendendo na
 ## Estatísticas
 
 <div align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BrunoBerval&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBerval&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=BrunoBerval&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBerval&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" />
 </div>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com/?user=BrunoBerval&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrunoBerval&theme=tokyonight" />
+</div>
+
+<div align="left">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrunoBerval&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrunoBerval&theme=tokyonight" />
 </div>
 
 ---
