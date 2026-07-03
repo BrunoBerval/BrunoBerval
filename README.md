@@ -4,21 +4,6 @@ Estudante de Desenvolvimento de Software na **FATEC Jacareí** — aprendendo na
 
 ---
 
-## Formação
-
-**Desenvolvimento de Software Multiplataforma — FATEC Jacareí**
-
-| Semestre | Período | |
-|---|---|---|
-| 1º | 1º sem / 2025 | ✅ |
-| 2º | 2º sem / 2025 | ✅ |
-| 3º | 1º sem / 2026 | ✅ |
-| 4º | 2º sem / 2026 | 👉 cursando |
-| 5º | 1º sem / 2027 | ⏳ |
-| 6º | 2º sem / 2027 | ⏳ |
-
----
-
 ## Stack
 
 **Linguagens**
@@ -56,18 +41,13 @@ Estudante de Desenvolvimento de Software na **FATEC Jacareí** — aprendendo na
 
 ## Estatísticas
 
-<p align="left">
+<div align="left">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=BrunoBerval&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoBerval&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+</div>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrunoBerval&theme=tokyonight&hide_border=true" />
-</p>
+<div align="left">
+  <img src="https://streak-stats.demolab.com/?user=BrunoBerval&theme=tokyonight&hide_border=true" />
+</div>
 
 ---
-
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=BrunoBerval&color=blue&style=flat-square&label=visitas+ao+perfil" />
-</p>
